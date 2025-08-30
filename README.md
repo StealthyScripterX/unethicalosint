@@ -1,4 +1,4 @@
-# OSINT PRO MAX BOT
+# DEEP OSINT
 
 > **NOTE:** This is a **private and paid** Telegram bot project.  
 > If you're interested in purchasing, contact: **okvaiiokvaii@gmail.com**
@@ -73,4 +73,4 @@ Interested in buying or have questions?
 
 ---
 
-**© OSINT PRO MAX BOT — All Rights Reserved**
+**© DEEP OSINT — All Rights Reserved**
