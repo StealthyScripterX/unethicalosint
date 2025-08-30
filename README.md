@@ -4,6 +4,17 @@
 > If you're interested in purchasing, contact: **okvaiiokvaii@gmail.com**
 
 ---
+# 📚 Educational Note
+
+This project is shared for **educational purposes only**. It is intended to help learners understand how Telegram bots, OSINT workflows, and Python-based automation operate. Please use this code responsibly and ethically:
+
+- **Do not use the code for malicious or illegal activities.**
+- **Respect privacy and local laws.**
+- **Always obtain permission before running OSINT or lookup tools on third-party data.**
+- **If you wish to use this code in production or for commercial purposes, contact the author.**
+
+> Learning and ethical hacking should always go hand-in-hand.  
+> Stay curious, stay responsible!
 
 ## 🤖 What is OSINT PRO MAX BOT?
 A feature-rich Telegram bot designed for OSINT (Open Source Intelligence) lookups, specifically for mobile numbers and vehicle registrations. This bot is built for privacy, speed, and provides a clean admin and user experience, including credits, leaderboards, referral system, and more.
